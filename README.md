@@ -36,14 +36,19 @@
 ```bash
 $ cat about.txt
 
-  Name    : Lucas Yatay Aramendy
-  Role    : Systems Analyst & Backend Engineer
-  Company : Instituto Sábato / CNEA — Buenos Aires 🇦🇷
-  Mission : Reach Senior Python Engineer [▓▓▓▓▓▓▓▓░░ 82%]
-  Status  : Online — Building in the dark like a Doom marine
+  Name       : Lucas Yatay Aramendy
+  Role       : Senior Backend Engineer — Python / FastAPI
+  Background : 20+ years in Sysadmin & Infrastructure → Backend Dev
+  Company    : Instituto Sábato / CNEA — Buenos Aires 🇦🇷
+  Training   : Universidad Politécnica de Valencia — Project Management
+  Mission    : Senior Python Engineer [▓▓▓▓▓▓▓▓░░ 82%]
+  Status     : Online — Building in the dark like a Doom marine
 ```
 
-Analista de sistemas que escribe APIs de noche y busca palancas ocultas en las paredes.
+Senior en Administración de Sistemas con 20 años de experiencia en infraestructuras críticas,
+reconvertido al desarrollo backend. Diseño APIs robustas con Python + FastAPI, aplico buenas
+prácticas de seguridad, testing y CI/CD, y levanto aplicaciones completas full-stack cuando hace falta.
+
 Cuando el código compila a la primera, sospecho que hay trampa. Cuando no compila, activo `IDKFA`.
 
 > *"You fight like a dairy farmer."*
@@ -125,7 +130,7 @@ SaaS de preparación para entrevistas IT con IA generativa.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-lucas--yatay--aramendy-0077B5?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d0d0d)](https://www.linkedin.com/in/lucas-yatay-aramendy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-lucas--yatay--aramendy-0077B5?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d0d0d)](https://www.linkedin.com/in/lucas-yatay-aramendy-a0324197)
 [![GitHub](https://img.shields.io/badge/GitHub-aramendyLucky-ffffff?style=flat-square&logo=github&logoColor=white&labelColor=0d0d0d)](https://github.com/aramendyLucky)
 
 </div>
