@@ -41,7 +41,7 @@ $ cat about.txt
   Stack      : Python · FastAPI · PostgreSQL · React · Docker · Azure
   Experience : 20+ years in IT — infrastructure roots, dev-focused today
   Education  : Master's Degree — Universidad Politécnica de Valencia 🎓
-  Company    : Instituto Sábato / CNEA — Buenos Aires 🇦🇷
+  Company    : Universidad de San Martín / Comisión Nacional de Energía Atómica 🇦🇷
   Open to    : Remote & global opportunities 🌍
   Status     : Building — check the repos ↓
 ```
