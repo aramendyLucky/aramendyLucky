@@ -37,22 +37,27 @@
 $ cat about.txt
 
   Name       : Lucas Yatay Aramendy
-  Role       : Senior Backend Engineer — Python / FastAPI
-  Background : 20+ years in Sysadmin & Infrastructure → Backend Dev
+  Role       : Software Engineer & Senior Systems Administrator
+  Stack      : Python · FastAPI · PostgreSQL · React · Docker · Azure
+  Experience : 20+ years in IT — infrastructure roots, dev-focused today
+  Education  : Master's Degree — Universidad Politécnica de Valencia 🎓
   Company    : Instituto Sábato / CNEA — Buenos Aires 🇦🇷
-  Training   : Universidad Politécnica de Valencia — Project Management
-  Mission    : Senior Python Engineer [▓▓▓▓▓▓▓▓░░ 82%]
-  Status     : Online — Building in the dark like a Doom marine
+  Open to    : Remote & global opportunities 🌍
+  Status     : Building — check the repos ↓
 ```
 
-Senior en Administración de Sistemas con 20 años de experiencia en infraestructuras críticas,
-reconvertido al desarrollo backend. Diseño APIs robustas con Python + FastAPI, aplico buenas
-prácticas de seguridad, testing y CI/CD, y levanto aplicaciones completas full-stack cuando hace falta.
+Software Engineer con raíces profundas en infraestructura — 20 años gestionando sistemas críticos
+me enseñaron a pensar en escala, seguridad y resiliencia antes de escribir la primera línea de código.
+Hoy ese background potencia mi trabajo en desarrollo: diseño APIs con FastAPI, integro IA generativa,
+construyo SaaS completos y los llevo a producción con Docker, CI/CD y arquitecturas que sobreviven al mundo real.
+
+Master en la Universidad Politécnica de Valencia. Proyectos activos en GitHub que hablan por sí solos.
+Si buscás un perfil que entienda tanto el `git push` como el servidor donde corre — es acá.
 
 Cuando el código compila a la primera, sospecho que hay trampa. Cuando no compila, activo `IDKFA`.
 
 > *"You fight like a dairy farmer."*
-> *"How appropriate — I refactor like one too."* — G. Threepwood, 1990
+> *"How appropriate — I ship like one too."* — G. Threepwood, 1990
 
 ---
 
