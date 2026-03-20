@@ -40,7 +40,7 @@ $ cat about.txt
   Role       : Software Engineer & Senior Systems Administrator
   Stack      : Python · FastAPI · PostgreSQL · React · Docker · Azure
   Experience : 20+ years in IT — infrastructure roots, dev-focused today
-  Education  : Master's Degree — Universidad Politécnica de Valencia 🎓
+  Education  : Master's Degree — Universidad Politécnica de Valencia - España 🎓
   Company    : Universidad de San Martín / Comisión Nacional de Energía Atómica 🇦🇷
   Open to    : Remote & global opportunities 🌍
   Status     : Building — check the repos ↓
